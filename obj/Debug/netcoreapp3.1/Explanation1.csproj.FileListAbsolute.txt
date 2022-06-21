@@ -1,0 +1,14 @@
+E:\New Project\Explanation1\bin\Debug\netcoreapp3.1\Explanation1.exe
+E:\New Project\Explanation1\bin\Debug\netcoreapp3.1\Explanation1.deps.json
+E:\New Project\Explanation1\bin\Debug\netcoreapp3.1\Explanation1.runtimeconfig.json
+E:\New Project\Explanation1\bin\Debug\netcoreapp3.1\Explanation1.runtimeconfig.dev.json
+E:\New Project\Explanation1\bin\Debug\netcoreapp3.1\Explanation1.dll
+E:\New Project\Explanation1\bin\Debug\netcoreapp3.1\Explanation1.pdb
+E:\New Project\Explanation1\obj\Debug\netcoreapp3.1\Explanation1.csproj.AssemblyReference.cache
+E:\New Project\Explanation1\obj\Debug\netcoreapp3.1\Explanation1.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Project\Explanation1\obj\Debug\netcoreapp3.1\Explanation1.AssemblyInfoInputs.cache
+E:\New Project\Explanation1\obj\Debug\netcoreapp3.1\Explanation1.AssemblyInfo.cs
+E:\New Project\Explanation1\obj\Debug\netcoreapp3.1\Explanation1.csproj.CoreCompileInputs.cache
+E:\New Project\Explanation1\obj\Debug\netcoreapp3.1\Explanation1.dll
+E:\New Project\Explanation1\obj\Debug\netcoreapp3.1\Explanation1.pdb
+E:\New Project\Explanation1\obj\Debug\netcoreapp3.1\Explanation1.genruntimeconfig.cache
